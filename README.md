@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **m_umairr@yahoo.com**
 
-- 📄 Know about my experiences [https://mumairr.github.io/Resume-Muhammad-Umair.pdf](https://mumairr.github.io/Resume-Muhammad-Umair.pdf)
+- 📄 Know about my experiences [Resume](https://mumairr.github.io/Resume-Muhammad-Umair.pdf)
 
 - ⚡ Fun fact **Love to hike up to a lake behind mountains just to wash my face with it's water!**
 
