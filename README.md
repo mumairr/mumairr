@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mumairr" target="blank"><img src="https://img.shields.io/twitter/follow/mumairr?logo=twitter&style=for-the-badge" alt="mumairr" /></a> </p>
 
-- 🔭 I’m currently working on **CEH, YETI & VIP**
+- 🔭 I’m currently working on **Redux based React GIS applications, Django back-ends, Dockerized applications, Openlayers and Leaflet for mapping. Current projects involve [City Planner Toolkit](https://tools.cityexplorertoolkit.com), [YETI](https://yemen.yeti.acaps.org/) (Yemen Ecomonomic Tracking Initiative) & [VIP](https://www.gsi-vip.com/login) (Visualization Intelligence Platform)**
 
 - 🌱 I’m currently learning **Django, Python, Flask, .NET MAUI, Electron**
 
