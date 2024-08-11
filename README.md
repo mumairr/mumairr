@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Django, Python, Flask, .NET MAUI, Electron**
 
-- 👨‍💻 All of my projects are available at [https://mumairr.github.io](https://mumairr.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mumairr.github.io)
 
 - 💬 Ask me about **Javascript, GIS, React, Node, Express, Vector / Raster data**
 
