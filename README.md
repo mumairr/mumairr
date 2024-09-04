@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://mumairr.github.io)
 
-- 💬 Ask me about **Javascript, GIS, React, Node, Express, Vector / Raster data**
+- 💬 Ask me about **Javascript, GIS, React, Node, Express, Vector / Raster data, Postgresql, Saptial Databases, Geoserver, Geoprocessing, WMS/WFS, 2d/3d**
 
 - 📫 How to reach me **m_umairr@yahoo.com**
 
